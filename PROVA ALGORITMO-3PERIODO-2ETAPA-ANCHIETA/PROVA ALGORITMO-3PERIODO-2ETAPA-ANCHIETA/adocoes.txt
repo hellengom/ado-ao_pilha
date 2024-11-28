@@ -1,0 +1,60 @@
+Nome: hellen
+Idade: 19
+Endereço: marechal castelo brancoi
+Raça do Cachorro: Poodle
+
+Nome: hellen
+Idade: 28
+Endereço: juuu
+Raça do Cachorro: Pastor Alemão
+
+Nome: hellen
+Idade: 19
+Endereço: castelo branco
+Raça do Cachorro: Vira Lata
+
+Nome: pablo
+Idade: 23
+Endereço: ree
+Raça do Cachorro: Husky Siberiano
+
+Nome: Junior
+Idade: 6
+Endereço: castelo branco
+Raça do Cachorro: Poodle
+
+Nome: pablo
+Idade: 13
+Endereço: castelo branco
+Raça do Cachorro: Husky Siberiano
+
+Nome: lucas
+Idade: 20
+Endereço: bb
+Raça do Cachorro: Golden Retriever
+
+Nome: jorge
+Idade: 90
+Endereço: kkujhj
+Raça do Cachorro: Vira Lata
+
+Nome: gerla
+Idade: 23
+Endereço: hel
+Raça do Cachorro: Labrador
+
+Nome: hh
+Idade: 3
+Endereço: 3f
+Raça do Cachorro: Bulldog
+
+Nome: lucas
+Idade: 21
+Endereço: britto castelo
+Raça do Cachorro: Pastor Alemão
+
+Nome: julia
+Idade: 23
+Endereço: avenida paulista
+Raça do Cachorro: Labrador
+
